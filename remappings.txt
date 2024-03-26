@@ -2,6 +2,7 @@
 @layerzerolabs/lz-evm-oapp-v2/=lib/LayerZero-v2/oapp/
 @layerzerolabs/lz-evm-protocol-v2/=lib/LayerZero-v2/protocol/
 @layerzerolabs/lz-evm-messagelib-v2/=lib/LayerZero-v2/messagelib/
+@layerzerolabs/test-devtools-evm-foundry/=lib/devtools/packages/test-devtools-evm-foundry
 ds-test/=lib/openzeppelin-contracts/lib/forge-std/lib/ds-test/src/
 erc4626-tests/=lib/openzeppelin-contracts/lib/erc4626-tests/
 forge-std/=lib/forge-std/src/
